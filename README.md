@@ -23,7 +23,7 @@ NOTES
 API AUTOMATION TEST
 -
 
-The API automation test is stored in the same `cypress` directroy as the UI automation test. To run the API automation, open a command line window, navigate into the `Automation` directory, and run `npx cypress open --config-file "cypress.json"`. From there, select `api_automation_test.js` in the `Integration Tests` window and the test should being running.
+The API automation test is stored in the same `cypress` directory as the UI automation test. To run the API automation, open a command line window, navigate into the `Automation` directory, and run `npx cypress open --config-file "cypress.json"`. From there, select `api_automation_test.js` in the `Integration Tests` window and the test should being running.
 
 NOTES
 
