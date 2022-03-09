@@ -23,7 +23,7 @@ NOTES
 API AUTOMATION TEST
 -
 
-The API automation test is stored in the same `cypress` directory as the UI automation test. To run the API automation, open a command line window, navigate into the `Automation` directory, and run `npx cypress open --config-file "cypress.json"`. From there, select `api_automation_test.js` in the `Integration Tests` window and the test should being running. The primary purpose of this test was to verify that the user can access openweather.org's API to get up-to-date details about the weather in London, Great Britain while also validating that the API response code contained all of the correct keys and values.
+The API automation test is stored in the same `cypress` directory as the UI automation test. To run the API automation, open a command line window, navigate into the `Automation` directory, and run `npx cypress open --config-file "cypress.json"`. From there, select `api_automation_test.js` in the `Integration Tests` window and the test should begin running. The primary purpose of this test was to verify that the user can access openweather.org's API to get up-to-date details about the weather in London, Great Britain while also validating that the API response code contained all of the correct keys and values.
 
 NOTES
 
